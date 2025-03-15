@@ -14,7 +14,7 @@
 <!ENTITY prereqs "sg_map sg_start smartctl sdparm hdparm">
 <!ENTITY debug      "false">
 <!ENTITY debugfile  "/tmp/spindownsas-debug">
-<!ENTITY exclusionsURL "https://raw.githubusercontent.com/doron1/unraid-sas-spindown/master/exclusions">
+<!ENTITY exclusionsURL "https://raw.githubusercontent.com/vanarebane/unraid-sas-spindown/master/exclusions">
 <!ENTITY utilURL "https://raw.githubusercontent.com/doron1/unraid-sas-spindown/master/sas-util">
 <!ENTITY copyright      "(c) 2019-2024 @doron - CC BY-SA 4.0">
 ]>
