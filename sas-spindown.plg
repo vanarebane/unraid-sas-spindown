@@ -4,7 +4,7 @@
 <!ENTITY name      "sas-spindown">
 <!ENTITY author    "doron">
 <!ENTITY version   "2024.11.25">
-<!ENTITY pluginURL "https://raw.githubusercontent.com/doron1/unraid-sas-spindown/master/sas-spindown.plg">
+<!ENTITY pluginURL "https://raw.githubusercontent.com/vanarebane/unraid-sas-spindown/master/sas-spindown.plg">
 <!ENTITY plugindir "/usr/local/emhttp/plugins/&name;">
 <!ENTITY pluginpermdir "/boot/config/plugins/&name;">
 <!ENTITY support   "https://forums.unraid.net/topic/97351-plugin-spin-down-sas-drives/">
@@ -15,7 +15,7 @@
 <!ENTITY debug      "false">
 <!ENTITY debugfile  "/tmp/spindownsas-debug">
 <!ENTITY exclusionsURL "https://raw.githubusercontent.com/vanarebane/unraid-sas-spindown/master/exclusions">
-<!ENTITY utilURL "https://raw.githubusercontent.com/doron1/unraid-sas-spindown/master/sas-util">
+<!ENTITY utilURL "https://raw.githubusercontent.com/vanarebane/unraid-sas-spindown/master/sas-util">
 <!ENTITY copyright      "(c) 2019-2024 @doron - CC BY-SA 4.0">
 ]>
 
